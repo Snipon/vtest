@@ -1,3 +1,16 @@
+# Code test
+
+Due to lack of time, lots of features did not get implemented.
+
+- Book destination
+- Book overview 
+- Lots of styling
+- Destination booking flow   
+- Icons
+- Working nav
+- Mediaqueries
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
